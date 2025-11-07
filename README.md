@@ -2,6 +2,6 @@
 
 ========================================================================================
   kArmas_fbScraPer.py v11.0 - FACEBOOK CREDENTIAL HARVESTER
-  MADE BY kArmasec
+  MADE BY kArmasec🚀
   Emails | Phones | Passwords | Posts | Comments
 ========================================================================================
