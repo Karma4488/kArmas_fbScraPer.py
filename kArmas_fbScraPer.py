@@ -2,7 +2,7 @@
 """
 kArmas_fbScraPer.py v11.0 - PYTHON EDITION
 THE ULTIMATE FACEBOOK CREDENTIAL & OSINT HARVESTER
-MADE BY kArmasec - November 07, 2025
+MADE BY kArmasec 
 
 Features:
   - Full post + comment + reply scraping
