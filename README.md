@@ -1,4 +1,5 @@
-# kArmas_fbScraPer.py
+# kArmas_fbScraPer.py🚀🎩
+edit the py file "set target"
 
 ========================================================================================
   kArmas_fbScraPer.py v11.0 - FACEBOOK CREDENTIAL HARVESTER
