@@ -1,5 +1,7 @@
 # kArmas_fbScraPer.py🚀🎩
-edit the py file "set target"
+Usage:
+  python3 kArmas_fbScraPer.py harvest "https://mbasic.facebook.com/groups/secretgroup" 100
+"""
 
 ========================================================================================
   kArmas_fbScraPer.py v11.0 - FACEBOOK CREDENTIAL HARVESTER
