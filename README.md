@@ -7,3 +7,4 @@ edit the py file "set target"
   Emails | Phones | Passwords | Posts | Comments
 ========================================================================================
 weareLegion
+for my Anonymous & Lulzsec friends🚀🎩🎩👽
